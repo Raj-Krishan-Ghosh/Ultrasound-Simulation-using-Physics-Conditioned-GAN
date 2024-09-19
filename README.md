@@ -1,4 +1,4 @@
-Steps for using Ultrasound Simulation using Physics Conditioned GAN:
+STEPS for using Ultrasound Simulation using Physics Conditioned GAN:
 
 Step 1: Create a copy of the training code to your Google Drive by clicking on this link: https://drive.google.com/file/d/1Q2pZyqPnRq7yrar4a7dlC7pq9jXvoPLG/copy?usp=sharing
 

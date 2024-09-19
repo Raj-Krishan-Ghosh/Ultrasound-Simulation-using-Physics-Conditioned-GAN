@@ -1,6 +1,6 @@
 STEPS for using Ultrasound Simulation using Physics Conditioned GAN:
 
-Step 1: Create a copy of the training code to your Google Drive by clicking on this link: https://drive.google.com/file/d/1Q2pZyqPnRq7yrar4a7dlC7pq9jXvoPLG/view?usp=sharing
+Step 1: Create a copy of the training code to your Google Drive by clicking on this link and then saving: https://drive.google.com/file/d/1Q2pZyqPnRq7yrar4a7dlC7pq9jXvoPLG/view?usp=sharing
 
 Step 2: Open the Google Colab Notebook and ensure that you are using GPU by going to Edit -> Notebook Settings -> Hardware Accelerator -> T4 GPU
 

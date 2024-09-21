@@ -2,18 +2,24 @@ STEPS for using Ultrasound Simulation using Physics Conditioned GAN:
 
 Step 1: Create a copy of the training code to your Google Drive by clicking on this link and then saving: https://drive.google.com/file/d/1Q2pZyqPnRq7yrar4a7dlC7pq9jXvoPLG/view?usp=sharing
 
+![ss01](https://github.com/user-attachments/assets/0dd4f0e6-07a6-405c-a8ee-b36b792dc7eb)
+
+![ss02](https://github.com/user-attachments/assets/628513d4-fd1e-4f7a-94d6-afe0f72a77fb)
+
 Step 2: Open the Google Colab Notebook and ensure that you are using GPU by going to Edit -> Notebook Settings -> Hardware Accelerator -> T4 GPU
+
+![ss03](https://github.com/user-attachments/assets/721318f3-dcd4-40b0-82ee-64b4cebc97fd)
+
+![ss04](https://github.com/user-attachments/assets/d2a70078-2e0a-46a0-936d-2b26b91372d1)
 
 Step 3: Download the files from this repository (Dataloader.py, Dataset_BUSI.zip, Model.py, PolarPseudoBMode.py, weights.zip) and upload them to Google Colab Notebook Files
 
+![ss05](https://github.com/user-attachments/assets/dd457633-8d8f-4403-a96e-b7267fb6b215)
+
+![ss06](https://github.com/user-attachments/assets/af8906da-7f69-47a2-ba8b-272256ed48e5)
+
 Step 4: Run the Google Colab Notebook cells one by one.
 
-![ss01](https://github.com/user-attachments/assets/0dd4f0e6-07a6-405c-a8ee-b36b792dc7eb)
-![ss02](https://github.com/user-attachments/assets/628513d4-fd1e-4f7a-94d6-afe0f72a77fb)
-![ss03](https://github.com/user-attachments/assets/721318f3-dcd4-40b0-82ee-64b4cebc97fd)
-![ss04](https://github.com/user-attachments/assets/d2a70078-2e0a-46a0-936d-2b26b91372d1)
-![ss05](https://github.com/user-attachments/assets/dd457633-8d8f-4403-a96e-b7267fb6b215)
-![ss06](https://github.com/user-attachments/assets/af8906da-7f69-47a2-ba8b-272256ed48e5)
 ![ss07](https://github.com/user-attachments/assets/d2e4a80d-8fa7-45c7-8e6a-7ac15c1036ad)
 
 NOTES:

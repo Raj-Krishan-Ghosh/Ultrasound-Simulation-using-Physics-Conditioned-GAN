@@ -1,4 +1,4 @@
-STEPS for using Ultrasound Simulation using Physics Conditioned GAN:
+# Steps for using Ultrasound Simulation using Physics Conditioned GAN
 
 Step 1: Create a copy of the training code to your Google Drive by clicking on this link and then saving: https://drive.google.com/file/d/1Q2pZyqPnRq7yrar4a7dlC7pq9jXvoPLG/view?usp=sharing
 
@@ -22,7 +22,7 @@ Step 4: Run the Google Colab Notebook cells one by one.
 
 ![ss07](https://github.com/user-attachments/assets/d2e4a80d-8fa7-45c7-8e6a-7ac15c1036ad)
 
-NOTES:
+# Notes
 
 Note 1: The dataset used in this project is a toy dataset. The original dataset can be downloaded from https://scholar.cu.edu.eg/dataset_BUSI.zip for the actual training.
 

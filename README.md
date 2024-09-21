@@ -6,7 +6,7 @@ Step 1: Create a copy of the training code to your Google Drive by clicking on t
 
 ![ss02](https://github.com/user-attachments/assets/628513d4-fd1e-4f7a-94d6-afe0f72a77fb)
 
-Step 2: Open the Google Colab Notebook and ensure that you are using GPU by going to Edit -> Notebook Settings -> Hardware Accelerator -> T4 GPU
+Step 2: Open the Google Colab Notebook and ensure that you are using GPU by going to Edit &#8594; Notebook Settings &#8594; Hardware Accelerator &#8594; T4 GPU
 
 ![ss03](https://github.com/user-attachments/assets/721318f3-dcd4-40b0-82ee-64b4cebc97fd)
 

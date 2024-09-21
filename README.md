@@ -38,7 +38,7 @@ Run the Google Colab Notebook cells one by one.
 The dataset used in this project is a toy dataset for demonstration purposes only. The original dataset can be downloaded from https://scholar.cu.edu.eg/dataset_BUSI.zip for the actual training.
 
 ### Note 2
-The Pseudo B-Mode python code is a Python implementation of the matlab version https://www.mathworks.com/matlabcentral/fileexchange/34199-pseudo-b-mode-ultrasound-image-simulator
+The Pseudo B-Mode python code is a Python implementation of the matlab version: https://www.mathworks.com/matlabcentral/fileexchange/34199-pseudo-b-mode-ultrasound-image-simulator
 
 ### Note 3
 

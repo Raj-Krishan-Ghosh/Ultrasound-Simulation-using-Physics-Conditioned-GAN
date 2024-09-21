@@ -19,7 +19,7 @@ Open the Google Colab Notebook and ensure that you are using GPU by going to Edi
 
 ### Step 3
 
-Download the files from this repository (Dataloader.py, Dataset_BUSI.zip, Model.py, PolarPseudoBMode.py, weights.zip) and upload them to Google Colab Notebook Files
+Download the files from this repository (Dataloader.py, Dataset_BUSI.zip, Model.py, PolarPseudoBMode.py, weights.zip, optionally README.md) and upload them to Google Colab Notebook Files
 
 ![ss05](https://github.com/user-attachments/assets/dd457633-8d8f-4403-a96e-b7267fb6b215)
 

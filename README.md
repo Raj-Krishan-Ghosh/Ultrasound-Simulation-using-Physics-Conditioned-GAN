@@ -8,6 +8,7 @@ Step 3: Download the files from this repository (Dataloader.py, Dataset_BUSI.zip
 
 Step 4: Run the Google Colab Notebook cells one by one.
 
+![ss01](https://github.com/user-attachments/assets/0dd4f0e6-07a6-405c-a8ee-b36b792dc7eb)
 
 NOTES:
 

@@ -42,4 +42,6 @@ The Pseudo B-Mode python code is a Python implementation of the matlab version h
 
 ### Note 3
 
-Note 3: The Pseudo B-Mode implementation method is based on the works of: Yongjian Yu, Acton, S.T., "Speckle reducing anisotropic diffusion," IEEE Trans. Image Processing, vol. 11, no. 11, pp. 1260-1270, Nov 2002.[http://dx.doi.org/10.1109/TIP.2002.804276] and J. C. Bambre and R. J. Dickinson, "Ultrasonic B-scanning: A computersimulation", Phys. Med. Biol., vol. 25, no. 3, pp. 463–479, 1980.[http://dx.doi.org/10.1088/0031-9155/25/3/006]
+Note 3: The Pseudo B-Mode implementation method is based on the works of:
+* Yu, Y., Acton, S.T., "Speckle reducing anisotropic diffusion," *IEEE Trans. Image Processing*, vol. 11, no. 11, pp. 1260-1270, 2002. [http://dx.doi.org/10.1109/TIP.2002.804276]
+* J. C. Bambre and R. J. Dickinson, "Ultrasonic B-scanning: A computersimulation", *Phys. Med. Biol.*, vol. 25, no. 3, pp. 463–479, 1980. [http://dx.doi.org/10.1088/0031-9155/25/3/006]
